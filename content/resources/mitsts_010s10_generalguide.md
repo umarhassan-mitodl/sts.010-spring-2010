@@ -5,6 +5,8 @@ description: This resource contains information about general guidelines for pap
 file: /courses/sts-010-neuroscience-and-society-spring-2010/8b27f6f0314c130ea2e239c49c5a7bf2_MITSTS_010S10_generalguide.pdf
 file_size: 132908
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

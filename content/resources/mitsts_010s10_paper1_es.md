@@ -5,6 +5,8 @@ description: 'This resource contains information about racing to conclusions: ne
 file: /courses/sts-010-neuroscience-and-society-spring-2010/54ea99f89f1f0f67b0f601e3c3774f3f_MITSTS_010S10_paper1_es.pdf
 file_size: 153792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

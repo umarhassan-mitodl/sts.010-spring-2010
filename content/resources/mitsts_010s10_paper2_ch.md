@@ -5,6 +5,8 @@ description: 'This resource contains information about mirror neurons: how neuro
 file: /courses/sts-010-neuroscience-and-society-spring-2010/b13c79c3412cf56962e8f6d377b6bb4a_MITSTS_010S10_paper2_ch.pdf
 file_size: 354868
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

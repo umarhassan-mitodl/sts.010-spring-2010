@@ -5,6 +5,8 @@ description: This resource contains information about the medicalization of norm
 file: /courses/sts-010-neuroscience-and-society-spring-2010/48de801362cf8d53741cf4040dd24faf_MITSTS_010S10_paper4_ch.pdf
 file_size: 409273
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
