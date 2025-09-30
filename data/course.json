@@ -38,7 +38,7 @@
     "content": "c8f919c5-91bf-8ca7-9f59-f44d203bd797",
     "website": "sts-010-neuroscience-and-society-spring-2010"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
